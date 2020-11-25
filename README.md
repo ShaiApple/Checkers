@@ -1,2 +1,3 @@
 # Checkers
-.Net client-server checkers game, C#.
+Client- Server web based on ASP.NET Core.
+C#.
